@@ -1,10 +1,11 @@
-# D#.# - Title
+# D4.1 - Fully customized version for Materials Science for openBIS, bringing openBIS to the next level
 
 Short description of deliverable
 
 ## Authors
 
-List of authors/contributors
+- <name> (<institute>)
+- ...
 
 ## Goal
 
