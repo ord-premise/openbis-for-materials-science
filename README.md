@@ -4,7 +4,7 @@ Short description of deliverable
 
 ## Authors
 
-- <name> (<institute>)
+- Name (Institute)
 - ...
 
 ## Goal
