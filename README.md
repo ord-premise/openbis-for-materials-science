@@ -4,12 +4,12 @@ This deliverable provides a tailored version of openBIS for materials science, f
 
 ## Authors
 
-- Danaila Mihai-Cosmin (ETHZ)
-- Fuentes Juan (ETHZ)
-- Laskowski Adam (ETHZ)
-- Da Costa Lopes Fabio (EMPA)
-- Pignedoli Carlo (EMPA)
-- Schuler Bruno (EMPA)
+- Mihai-Cosmin Danaila (ETHZ)
+- Juan Fuentes (ETHZ)
+- Adam Laskowski (ETHZ)
+- Fabio Lopes (EMPA)
+- Carlo Pignedoli (EMPA)
+- Bruno Schuler (EMPA)
 
 ## Goal
 
