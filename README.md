@@ -1,6 +1,6 @@
 # D4.1 - Fully customized version for Materials Science for openBIS, bringing openBIS to the next level
 
-This deliverable provides a tailored version of openBIS for materials science, featuring custom templates, visualizers, and interface components to streamline data management and analysis. It introduces an imaging technology plugin for direct visualization of Nanonis SXM and microscopy DAT files within the openBIS web interface.
+This deliverable provides a tailored version of openBIS for materials science, featuring custom templates, visualizers, and interface components to streamline data management and analysis. It introduces an [imaging technology](https://openbis.readthedocs.io/en/latest/software-developer-documentation/server-side-extensions/dss-imaging.html) plugin for direct visualization of Nanonis SXM and microscopy DAT files within the openBIS web interface.
 
 ## Authors
 
